@@ -1,0 +1,26 @@
+/*
+Mobile 
+*/
+body {
+    background: lightblue;
+}
+.card {
+    max-width: 18rem;
+}
+img {
+    margin-top: 25%;
+    border: 5px solid white;
+}
+.card-body {
+    background-image: url(./images/bg-pattern-card.svg);
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+span {
+    font-size: 1.3rem;
+}
+.small-text {
+    font-size: .7rem;
+}
+
+
